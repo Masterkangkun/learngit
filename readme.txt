@@ -11,3 +11,13 @@ git push -u origin master
 git push origin master
 
 Create a new branch is quick
+git checkout -b dev
+=生成后切换
+git branch dev
+git checkout dev
+
+git branch查看
+git merge dev合并
+git branch -d dev删除
+
+Creating a new branch is quick and simple
